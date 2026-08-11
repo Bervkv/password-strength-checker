@@ -1,7 +1,7 @@
 # Password Strength Checker
 
 A command-line tool that evaluates password strength using two independent
-methods — because relying on just one gives a false sense of security.
+methods because relying on just one gives a false sense of security.
 
 ## Why two checks, not one?
 
